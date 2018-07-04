@@ -31,7 +31,7 @@ class cfgWeapons {
     };
 
     class rhs_weap_m14ebrri : srifle_EBR_F {
-        magazineWell[] = {"Stanag_762x51_big"};
+        magazineWell[] = {"CBA_762x51_M14"};
     };
 
     class rhs_weap_m70ab2 : rhs_weap_m70_base {
