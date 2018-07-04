@@ -4,6 +4,7 @@ Contains magazine wells definitions for cross mod compatibility
 
 ## Supported mods
 
+- ACE
 - BWA3
 - HLC
 - RHS
