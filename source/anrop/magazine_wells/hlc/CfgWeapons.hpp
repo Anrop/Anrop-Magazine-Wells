@@ -40,7 +40,7 @@ class cfgWeapons {
     class hlc_rifle_bcmblackjack :hlc_rifle_bcmjack
     {
         magazineWell[] = {"CBA_762x35_STANAG"};
-    }
+    };
     class hlc_rifle_Bushmaster300 : hlc_ar15_base {
         magazineWell[] = {};
     };

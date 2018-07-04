@@ -11,3 +11,6 @@ class CfgPatches {
         authors[] = {"Dahlgren"};
     };
 };
+
+#include "CfgMagazineWells.hpp"
+#include "CfgWeapons.hpp"
