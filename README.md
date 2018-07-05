@@ -6,6 +6,7 @@ Contains magazine wells definitions for cross mod compatibility
 
 - ACE
 - BWA3
+- FFP
 - HLC
 - RHS
 - SFP
