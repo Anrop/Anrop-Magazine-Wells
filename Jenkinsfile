@@ -7,7 +7,7 @@ pipeline {
         stage('Build') {
             steps {
                 bat 'build.bat' 
-                archiveArtifacts artifacts: '@anrop_magazine_wells/**/*'
+                archiveArtifacts artifacts: '@anrop_magazine_wells_*/**/*'
             }
             post {
                 always {
