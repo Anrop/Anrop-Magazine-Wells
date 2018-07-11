@@ -1,5 +1,5 @@
-name = "Anrop Magazine Wells";
-description = "Anrop Magazine Wells";
+name = "Anrop Magazine Wells - HLC";
+description = "Anrop Magazine Wells - HLC";
 picture = "anrop_ca.paa";
 actionName = "Website";
 action = "https://www.anrop.se";
